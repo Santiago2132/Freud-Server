@@ -1,0 +1,7 @@
+Firts command in windows:
+    python -m venv venv 
+    .\venv\Scripts\activate 
+
+Dependences:
+    tensorflow
+    ollama
